@@ -1,5 +1,11 @@
 A library for reading and writing Garmin FIT files.
 
+
+## This is a fork of the original package
+https://bitbucket.org/stagescycling/fit_tool/src/main/
+
+The origina library seems to be no longer maintained.
+
 ## Background
 > The Flexible and Interoperable Data Transfer (FIT) protocol is designed specifically for the storing and sharing of data that originates from sport, fitness and health devices. The FIT protocol defines a set of data storage templates (FIT messages) that can be used to store information such as user profiles, activity data, courses, and workouts. It is specifically designed to be compact, interoperable and extensible.
 

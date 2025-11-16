@@ -1,3 +1,6 @@
+## 2.0.0
+- Updated the dependencies to the latest versions. (16/10/2025)
+
 ## 1.0.5
 - Fix field array encoding
 
