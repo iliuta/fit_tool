@@ -1,3 +1,7 @@
+## This is a fork of the original package
+https://bitbucket.org/stagescycling/fit_tool/src/main/
+
+The origina library seems to be no longer maintained.
 
 ## Steps for publishing package
 
